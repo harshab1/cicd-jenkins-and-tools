@@ -1,7 +1,7 @@
 # cicd-jenkins-and-tools
 Tools used:
-> Jenkins
-> GIT
+1. Jenkins
+2. GIT
 > Maven
 > Checkstyle
 > Nexus
