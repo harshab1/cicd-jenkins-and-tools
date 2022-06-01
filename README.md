@@ -2,11 +2,11 @@
 Tools used:
 1. Jenkins
 2. GIT
-> Maven
-> Checkstyle
-> Nexus
-> Sonarqube server
-> Tomcat
-> Backend - MySQL, Memcached, RabbitMQ
-> Selenium Testing
-> Slack notifications
+3. Maven
+4. Checkstyle
+5. Nexus
+6. Sonarqube server
+7. Tomcat
+8. Backend - MySQL, Memcached, RabbitMQ
+9. Selenium Testing
+10. Slack notifications
